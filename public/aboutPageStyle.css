@@ -4,7 +4,7 @@
 body {
 	margin-left: auto;
 	margin-right: auto;
-	width: 92%;
+	/* width: 92%; */
 	/* max-width: 960px; */
 	padding-left: 2.275%;
 	padding-right: 2.275%;
@@ -347,7 +347,7 @@ header .profilePhoto {
 }
 header .profileHeader {
 	text-align: left;
-	padding-top: 10%;
+	padding-top: 2%;
 }
 header .socialNetworkNavBar .socialNetworkNav {
 	width: 74px;
